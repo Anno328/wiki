@@ -1,4 +1,6 @@
---- title: "ReactでAdobeFontsを使いたい！"
+---
+
+title: "ReactでAdobeFontsを使いたい！"
 
 emoji: "💣" 
 
@@ -6,7 +8,9 @@ type: "tech"
 
 topics: ["React","AddobeFonts"] 
 
-published: **false**  ---
+published: **false**
+
+  ---
 
 
 

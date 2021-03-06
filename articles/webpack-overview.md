@@ -1,4 +1,6 @@
---- title: "webpackの概要を5分でおさらいする"
+---
+
+title: "webpackの概要を5分でおさらいする"
 
 emoji: "📦" 
 
@@ -6,7 +8,9 @@ type: "tech"
 
 topics: ["webpack"] 
 
-published: **false**  ---
+published: **false**
+
+  ---
 
 
 

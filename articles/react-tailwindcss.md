@@ -1,4 +1,6 @@
---- title: "React上でtailwindcssを使いたい！"
+---
+
+title: "React上でtailwindcssを使いたい！"
 
 emoji: "😸" 
 
@@ -6,7 +8,9 @@ type: "tech"
 
 topics: ["React","tailwindcss"] 
 
-published: **false**  ---
+published: **false** 
+
+ ---
 
 
 

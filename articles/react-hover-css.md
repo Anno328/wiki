@@ -1,4 +1,6 @@
---- title: "Hover.cssをReact上で使って、要素をブルンブルン動かしたい！"
+---
+
+title: "Hover.cssをReact上で使って、要素をブルンブルン動かしたい！"
 
 emoji: "😳" 
 
@@ -6,7 +8,9 @@ type: "tech"
 
 topics: ["React","css","Hover.css"] 
 
-published: **false**  ---
+published: **false**
+
+  ---
 
 
 

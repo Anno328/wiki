@@ -1,4 +1,6 @@
---- title: "tailwndcss+React でカードデザインのポートレートサイトを作ってみる"
+---
+
+title: "tailwndcss+React でカードデザインのポートレートサイトを作ってみる"
 
 emoji: "💨" 
 
@@ -6,7 +8,9 @@ type: "tech"
 
 topics: ["React","tailwindcss","ポートフォリオ"] 
 
-published: **false**  ---
+published: **false**
+
+  ---
 
 
 

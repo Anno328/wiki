@@ -1,4 +1,6 @@
---- title: "React axiosを使ってPOSTメソッドにヘッダーをつけてリクエストする"
+---
+
+title: "React axiosを使ってPOSTメソッドにヘッダーをつけてリクエストする"
 
 emoji: "👻" 
 
@@ -6,7 +8,9 @@ type: "tech"
 
 topics: ["React","axios"] 
 
-published: **false**  ---
+published: **false**  
+
+---
 
 
 

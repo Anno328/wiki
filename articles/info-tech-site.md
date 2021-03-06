@@ -1,4 +1,6 @@
---- title: "技術の情報収集やトレンドを抑えるためにおすすめのサイト"
+---
+
+title: "技術の情報収集やトレンドを抑えるためにおすすめのサイト"
 
 emoji: "📰" 
 
@@ -6,7 +8,9 @@ type: "tech"
 
 topics: ["情報収集"] 
 
-published: **false**  ---
+published: **false**
+
+  ---
 
 
 
