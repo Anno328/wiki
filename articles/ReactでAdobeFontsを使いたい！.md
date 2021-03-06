@@ -1,4 +1,17 @@
+--- title: "ReactでAdobeFontsを使いたい！"
+
+emoji: "💣" 
+
+type: "tech" 
+
+topics: ["React","AddobeFonts"] 
+
+published: **false**  ---
+
+
+
 ## はじめに
+
 ReactでAdobeFontsを使うためにまとめました。
 最終的にこんな感じになります。
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/502798/1fdf3c74-2e2b-fffd-2559-6df7ea7683b5.png)

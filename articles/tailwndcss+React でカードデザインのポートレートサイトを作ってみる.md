@@ -1,4 +1,17 @@
+--- title: "tailwndcss+React でカードデザインのポートレートサイトを作ってみる"
+
+emoji: "💨" 
+
+type: "tech" 
+
+topics: ["React","tailwindcss","ポートフォリオ"] 
+
+published: **false**  ---
+
+
+
 ## はじめに
+
 Reactでカードを並べたポートレートサイトを作ってみたかったので、tailwindcssを用いて実装してみます。
 
 イメージこんな感じ。

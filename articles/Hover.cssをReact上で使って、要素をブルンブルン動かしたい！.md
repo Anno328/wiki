@@ -1,4 +1,17 @@
+--- title: "Hover.cssをReact上で使って、要素をブルンブルン動かしたい！"
+
+emoji: "😳" 
+
+type: "tech" 
+
+topics: ["React","css","Hover.css"] 
+
+published: **false**  ---
+
+
+
 ## はじめに
+
 タイトル通り、Reactで生成した要素にホバーアクションを実装してブルンブルン動かしたくなったのでやってみました。
 
 ## 開発環境

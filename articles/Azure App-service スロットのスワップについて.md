@@ -1,4 +1,17 @@
+--- title: ""
+
+emoji: "😸" 
+
+type: "tech" 
+
+topics: ["",""] 
+
+published: **false**  ---
+
+
+
 # about
+
 >実行している App Service プランのサービス レベルが Standard、Premium、または Isolated である場合は、Web アプリ、Linux 上の Web アプリ、モバイル バック エンド、または API アプリを Azure App Service にデプロイするときに、既定の運用スロットではなく別個のデプロイ スロットを使用できます。
 ---
 # スロットの仕様

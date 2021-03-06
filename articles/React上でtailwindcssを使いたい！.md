@@ -1,4 +1,17 @@
+--- title: "React上でtailwindcssを使いたい！"
+
+emoji: "😸" 
+
+type: "tech" 
+
+topics: ["React","tailwindcss"] 
+
+published: **false**  ---
+
+
+
 ## この記事について
+
 今話題になってるらしいCSSフレームワークの「Tailwindcss」をReactで使ってみるためのまとめ。
 
 ##そもそもTailwindって

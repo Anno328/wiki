@@ -1,3 +1,15 @@
+--- title: "スライド形式じゃないプレゼンツール「Breakfast」を使って自己紹介してみる"
+
+emoji: "📊" 
+
+type: "tech" 
+
+topics: ["プレゼン","Breskfast"] 
+
+published: **false**  ---
+
+
+
 ## はじめに
 
 少し前に、かのAmazonが社内プレゼンでパワーポイントを禁止したという記事が話題になりましたよね。

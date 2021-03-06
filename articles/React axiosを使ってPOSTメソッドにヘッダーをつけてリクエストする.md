@@ -1,4 +1,17 @@
+--- title: "React axiosを使ってPOSTメソッドにヘッダーをつけてリクエストする"
+
+emoji: "👻" 
+
+type: "tech" 
+
+topics: ["React","axios"] 
+
+published: **false**  ---
+
+
+
 ## axios
+
 ざっくり説明するとnodeからHTTPリクエストを送るためのライブラリです。
 https://www.npmjs.com/package/axios
 

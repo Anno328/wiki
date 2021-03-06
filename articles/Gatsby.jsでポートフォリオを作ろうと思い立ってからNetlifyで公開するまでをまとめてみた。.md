@@ -1,4 +1,17 @@
+--- title: "Gatsby.jsでポートフォリオを作ろうと思い立ってからNetlifyで公開するまでをまとめてみた。"
+
+emoji: "🤠" 
+
+type: "tech" 
+
+topics: ["Gatsby.js","ポートフォリオ","Netlify"] 
+
+published: **false**  ---
+
+
+
 # 背景
+
 今流行っているGatyby.jsで自身のポートフォリオを作ってみたいなぁと思い立ち、
 実際に作ってみたので、その流れをまとめてみました。
 

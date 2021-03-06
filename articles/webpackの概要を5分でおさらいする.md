@@ -1,4 +1,17 @@
+--- title: "webpackの概要を5分でおさらいする"
+
+emoji: "📦" 
+
+type: "tech" 
+
+topics: ["webpack"] 
+
+published: **false**  ---
+
+
+
 # はじめに
+
 create-react-appでアプリを作成すると、なんだかいつの間にか設定されているwebpackが何者なのか気になったのでまとめてみました。
 
 # この記事で得られること

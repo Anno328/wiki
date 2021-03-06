@@ -1,6 +1,17 @@
+--- title: ""
+
+emoji: "😸" 
+
+type: "tech" 
+
+topics: ["",""] 
+
+published: **false**  ---
+
+
+
 勉強会チケット
 https://dev.azure.com/CTI-DigitalBusiness/SeatingChart/_sprints/taskboard/SeatingChart%20Team/SeatingChart/Sprint2021-02?workitem=720
-
 
 「開発者は、全員がソースコードの内容と、処理の流れを理解できる」
 上記を達成するために、勉強会を開催する。
